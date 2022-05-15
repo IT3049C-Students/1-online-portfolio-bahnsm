@@ -1,10 +1,10 @@
 Portfolio Assignment
 ==========================================
-![Assignment Checks](https://upload.wikimedia.org/wikipedia/commons/3/3b/Eo_circle_green_checkmark.svg)
+![Assignment Checks]()
 
 Instructions to this assignment can be found [here](https://it3049c.github.io/coursework/assignments/online-portfolio/).
 ## Checklist:
-- [x] update the assignment checks above to the correct link
+- [ ] update the assignment checks above to the correct link
 - [x] update the assignment checks above to the correct link. - Done Automatically
 - [x] fill out the self evaluation and Reflection
 - [x] submit the repository and the hosted github pages to Canvas
@@ -23,7 +23,7 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/co
 - [x] Pull request is submitted. (3 points)
 
 <!--- Update the following line with your grade --->
-I should get 20 out of 20 on this assignment.
+I should get 19 out of 20 on this assignment. I wasn't sure what I was supposed to do for the first assignment check link.
 
 ## Self-Reflection:
 Having had little experience with GitHub or Visual Studio Code, this assignment's primary challenge for was was simply
