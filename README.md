@@ -1,6 +1,6 @@
 Portfolio Assignment
 ==========================================
-![Assignment Checks]()
+![Assignment Checks](✔️)
 
 Instructions to this assignment can be found [here](https://it3049c.github.io/coursework/assignments/online-portfolio/).
 ## Checklist:
