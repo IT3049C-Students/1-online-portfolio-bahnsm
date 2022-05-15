@@ -1,6 +1,6 @@
 Portfolio Assignment
 ==========================================
-![Assignment Checks](:white_check_mark:)
+![Assignment Checks](https://upload.wikimedia.org/wikipedia/commons/3/3b/Eo_circle_green_checkmark.svg)
 
 Instructions to this assignment can be found [here](https://it3049c.github.io/coursework/assignments/online-portfolio/).
 ## Checklist:
